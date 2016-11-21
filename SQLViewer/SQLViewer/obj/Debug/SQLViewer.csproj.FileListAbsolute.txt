@@ -1,0 +1,31 @@
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\bin\Debug\SQLViewer.exe.config
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLviewer.g.cs
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\App.g.cs
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer_MarkupCompile.cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer_MarkupCompile.lref
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\bin\Debug\SQLViewer.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\bin\Debug\SQLViewer.pdb
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLviewer.baml
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.g.resources
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.Properties.Resources.resources
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.csproj.GenerateResource.Cache
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.exe
+C:\Users\Kevin\AppData\Local\Temporary Projects\SQLViewer\obj\Debug\SQLViewer.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\bin\Debug\SQLViewer.exe.config
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\bin\Debug\SQLViewer.exe
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\bin\Debug\SQLViewer.pdb
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\bin\Debug\MySql.Data.dll
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLviewer.g.cs
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\App.g.cs
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer_MarkupCompile.cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer_MarkupCompile.lref
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLviewer.baml
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.g.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.Properties.Resources.resources
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\SQLViewer.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\editor_window.g.cs
+C:\Users\Kevin\Documents\Visual Studio 2015\Projects\SQLViewer\SQLViewer\obj\Debug\editor_window.baml
