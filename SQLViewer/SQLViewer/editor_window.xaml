@@ -8,9 +8,11 @@
         Title="MySQL Editor" Height="370" Width="550">
     <Grid>
         <Grid.ColumnDefinitions>
-            <ColumnDefinition/>
+            <ColumnDefinition Width="94*"/>
+            <ColumnDefinition Width="177*"/>
         </Grid.ColumnDefinitions>
-        <ComboBox x:Name="table_comboBox" HorizontalAlignment="Left" Height="23" Margin="10,10,0,0" VerticalAlignment="Top" Width="162" SelectionChanged="table_comboBox_SelectionChanged"/>
+        <ComboBox x:Name="table_comboBox" HorizontalAlignment="Left" Height="23" Margin="10,43,0,0" VerticalAlignment="Top" Width="162" SelectionChanged="table_comboBox_SelectionChanged"/>
+        <DataGrid x:Name="dataGrid" HorizontalAlignment="Right" Height="296" VerticalAlignment="Bottom" Width="351" ItemsSource="{Binding}" Padding="0,0,10,10" Grid.Column="1" Margin="0,0,3,0"/>
 
     </Grid>
 </Window>
